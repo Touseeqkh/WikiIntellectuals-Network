@@ -1,0 +1,7 @@
+streamlit
+wikipedia-api
+networkx
+plotly
+pandas
+numpy
+pip install -r requirements.txt
